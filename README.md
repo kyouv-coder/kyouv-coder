@@ -1,4 +1,4 @@
-## Agustin el de la Inacap 👋
+## Agustin el de la Inacap(no soy del inacap pero aguante) 👋
 
 <img src="https://images.seeklogo.com/logo-png/18/1/inacap-logo-png_seeklogo-181445.png">
 
