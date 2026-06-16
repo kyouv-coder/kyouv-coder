@@ -1,12 +1,13 @@
-## Hi there 👋
+## Agustin el de la Inacap 👋
 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQGQhd2lKgeC-Q/profile-displayphoto-crop_800_800/B4DZyDPWNDJAAI-/0/1771728365526">
-e=1782950400&v=beta&t=PC1VeE4GO1yE5qePIYSOPXIHqvP2rmYo7mBsKcs_JEU
+<img src="https://images.seeklogo.com/logo-png/18/1/inacap-logo-png_seeklogo-181445.png">
+
 **kyouv-coder/kyouv-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<p>Hola mundo</p>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working o ...
+# Hola Soy del team 1+1 jaja
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
